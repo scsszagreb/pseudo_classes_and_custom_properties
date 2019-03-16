@@ -1,6 +1,6 @@
 # A demo for our meetup
 
- This is the demo from our [S(CSS)_Zagreb meetup](https://www.meetup.com/S_CSS_Zagreb/events/257860075/)
+ This is the demo from our [S(CSS)_Zagreb meetup](https://www.meetup.com/S_CSS_Zagreb/events/259088646/)
 
 ## Description
 
