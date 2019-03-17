@@ -19,6 +19,12 @@
   * Explore all of the examples
     * [CSS pseudo classes examples](https://codepen.io/collection/njwMkE/)
 
+## CSS Custom Properties
+  * Check out the presentation
+    * [CSS Custom Properties](https://drive.google.com/file/d/1k39amtWSbJc1Y5jyY7dxf_B6Qvib_ORH/view?usp=sharing)
+
+  * Check out the code [in this repo](/css_custom_properties_demo)
+
 ### Do you want to speak on our next meetup?
 
   1. [Join our group](https://www.meetup.com/S_CSS_Zagreb/)
